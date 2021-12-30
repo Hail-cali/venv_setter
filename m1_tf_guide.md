@@ -24,15 +24,14 @@
 ### 3) 아나콘다 가상한경 새로 생성
 - 가상환경 생성 
 ```angular2html
-conda create --name tf_nlp python=3.6.8 
-conda create --name tf_nlp python=3.6.8 
+conda create --name tf_m1 python=3.6.8 
 conda env list
 ```
 
 
 - 가상환경 실행
 ```angular2html
-conda activate tf_nlp
+conda activate tf_m1
 pip freeze
 ```
 ### 4) 아까 다운로드 받은 tensorflow_macos 안에 x86_64 폴더에서 파일명들 바꾸기
