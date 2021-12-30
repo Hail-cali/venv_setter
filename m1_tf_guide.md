@@ -59,7 +59,7 @@ pip install "/Users/username/Downloads/tensorflow_macos/x86_64/tensorflow_macos-
 - 주피터 노트북에 가상환경 등록
 ```angular2html
 pip install ipykernel
-python -m ipykernel install --user --name tf_nlp --display-name "tf_nlp"
+python -m ipykernel install --user --name tf_m1 --display-name "tf_m1"
 ```
 
 
